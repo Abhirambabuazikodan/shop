@@ -1,0 +1,17 @@
+.content{
+    height: 300px;
+}
+.img{
+    height: 450px;
+}
+.checked{
+    color: gold;
+}
+.footer{
+    height: 100px;
+}
+.badgediv{
+    margin-top: 10px;
+    width: 40px;
+    margin-left:80% ;
+}
